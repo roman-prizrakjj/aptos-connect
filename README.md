@@ -1,2 +1,6 @@
 # aptos-connect
-this script can: generate new wallets, brand test tokens from the tap, send transactions
+Данный скрипт может:
+-Создавать новые кошельки.
+-Клеймить тестовые токены.
+-Отправлять токены с одного кошелька на другой.
+Функции описаны в main  файле.
